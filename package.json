@@ -1,0 +1,27 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "Pranam  React by Poonam",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poonam-devopx/React_1.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Poonam"
+  ],
+  "author": "Poonam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poonam-devopx/React_1/issues"
+  },
+  "homepage": "https://github.com/poonam-devopx/React_1#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
